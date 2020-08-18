@@ -1,0 +1,12 @@
+- [x] 登陆
+- [X] 搜索（搜索条件确认，相关代码获取)
+  - [x] 获取code https://www.pkulaw.com/foreigndialog?library=pfnl&property=Category
+  - [x] 设置搜索参数   
+- [x] 分析结果（分页） 
+- [x] 获取gid(下载用)
+- [x] 使用下载全部服务（构建gid）
+- [ ] 存入到数据库
+  - [X] 存入搜索索引+条数 csv(result_count待整合)
+  - [X] 存入搜索结果
+    - [X] 创建文件夹
+    - [ ] 设计表结构
